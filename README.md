@@ -572,4 +572,4 @@ It combines **data quality, data enrichment, business analytics, and Spark perfo
 
 Aspiring Data Engineer
 
-**Python | SQL | PySpark | Apache Spark | Databricks | Data Warehousing**
+**Python | SQL | PySpark | Apache Spark | Databricks | Data Engineering**
